@@ -1,4 +1,4 @@
-# Hi there <img scr="https://tenor.com/view/fox-hello-hi-greet-greeting-gif-15986778" width= "30px">, 👋 I am Rudolfs Lukstins! 
+# Hi there <img src="https://media.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" width="30px">, 👋 I am Rudolfs Lukstins! 
 ## Welcome to my GitHub! 
 
 <!--
