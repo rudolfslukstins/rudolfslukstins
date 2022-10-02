@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there <img scr="https://raw.githubuserconsent.com/MartinHeinz/master/wave.gif" width= "30px"> 👋 I am Rudolfs Lukstins! 
+## Welcome to my GitHub! 
 
 <!--
 **rudolfslukstins/rudolfslukstins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
