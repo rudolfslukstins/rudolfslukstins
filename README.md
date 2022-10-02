@@ -1,4 +1,4 @@
-# Hi there <img scr="https://raw.githubuserconsent.com/MartinHeinz/master/wave.gif" width= "30px"> 👋 I am Rudolfs Lukstins! 
+# Hi there <img scr="https://raw.githubusercontent.com/MartinHeinz/master/wave.gif" width= "30px"> 👋 I am Rudolfs Lukstins! 
 ## Welcome to my GitHub! 
 
 <!--
