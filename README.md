@@ -1,4 +1,4 @@
-# Hi there <img scr="https://raw.githubusercontent.com/MartinHeinz/master/wave.gif" width= "30px">, 👋 I am Rudolfs Lukstins! 
+# Hi there <img scr="https://tenor.com/view/fox-hello-hi-greet-greeting-gif-15986778" width= "30px">, 👋 I am Rudolfs Lukstins! 
 ## Welcome to my GitHub! 
 
 <!--
