@@ -6,6 +6,8 @@ Able to effectively self-manage during independent projects, as well as collabor
 Would like to learn new skills and grow as a programmer.
 Every day of the week, dedication and discipline trumps excellence and giftedness. Every moment I choose to do what I know is right rather than what I feel will be easier, I am winning over myself.
 
+Reach me https://www.linkedin.com/in/rudolfslukstins/
+
 ---
 
 ## 🧰 Toolbox
